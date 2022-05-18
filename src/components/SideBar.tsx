@@ -25,5 +25,5 @@ export function SideBar(props: SideBarProps) {
     </div>
 
   </nav>
-  )
+  );
 }
